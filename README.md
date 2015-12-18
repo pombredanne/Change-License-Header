@@ -32,7 +32,7 @@ optional arguments:
 # Example
 ```
 C:\Users\jdebruijn\Drive\Programming\Python\ChangeLicenseHeader>ChangeLicenseHeader.py --backup --logFile myLog.log source
-ChangeLicenseHeader 1.0.0  Copyright (c) 2015  Jeroen de Bruijn <vidavidorra@gmail.com>
+ChangeLicenseHeader 0.1.0  Copyright (c) 2015  Jeroen de Bruijn <vidavidorra@gmail.com>
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions.
