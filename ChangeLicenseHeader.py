@@ -24,7 +24,7 @@
 #notes           :
 __author__ = "Jeroen de Bruijn"
 __license__ = "GPLv3"
-__version__ = "1.0.0"
+__version__ = "0.1.0"
 __maintainer__ = "Jeroen de Bruijn"
 __email__ = "vidavidorra@gmail.com"
 
