@@ -1,7 +1,13 @@
 # Change License Header
 [![License GPLv3][badge-license]][license]
 
-Script to change the license header in files. This could be usefull if you want to change the license for your project and need to change the licence header in all your `.c` and `.h` files for example. It changed the license in a file and then checks the change by opening the file (again) and verifying that the licence header is actually changed.
+Script to change the license header in files.
+This could be usefull if you want to change the license for your project and need to change the
+licence header in all your `.c` and `.h` files for example.
+It changed the license in a file and then checks the change by opening the file (again) and
+verifying that the licence header is actually changed.  
+Tested with python `2.7.11` and `3.5.1`.  
+[Pull requests](https://github.com/vidavidorra/Change-License-Header/pulls) and [bug reports](https://github.com/vidavidorra/Change-License-Header/issues) are welcome!
 
 # Usage
 ```

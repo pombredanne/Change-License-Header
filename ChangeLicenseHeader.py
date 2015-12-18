@@ -156,6 +156,7 @@ def removeBackups(fileList):
     
     for file in fileList:
         try:
+            print('Deleting %s' %(os.path.abspath(file)))
             os.remove(file)
             deletedList.append(file)
         except OSError as e:
