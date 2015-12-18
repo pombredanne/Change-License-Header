@@ -151,10 +151,10 @@ def verifyChange(filename):
         return 0
 
 def removeBackups(fileList):
+    print('Deleting files...')
     deletedList = []
     
     for file in fileList:
-        print('Deleting file %s' %file)
         try:
             os.remove(file)
             deletedList.append(file)
